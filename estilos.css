@@ -4,3 +4,11 @@
 	margin: 5px;
 	border: solid 6px #cccccc;
 }
+
+.tarjetas{
+	border: solid 2px;
+	padding: 12px;
+	width: 72.5%;
+	margin: 0 auto;
+	background: #b9cdebc0;
+}
