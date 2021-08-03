@@ -20,3 +20,8 @@ legend{
 	border-radius: 20px;
 	background: #a6daea8f;
 }
+
+body{
+	background-size: 50%;
+	background-attachment: fixed;
+}
